@@ -7,6 +7,8 @@ Sure! Here's the complete `README.md` content in one place — ready to copy-pas
 
 EpicLink is a Streamlit app that automatically generates professional, LinkedIn-style milestone posts from completed Jira Epics using OpenAI GPT-4. Save time, maintain consistency, and share your team's achievements with ease.
 
+**Live App:** [Click here to try it out on Streamlit]([https://your-app-url.streamlit.app](https://epic-post-generator-nk7yj6haegknjmudusuq3x.streamlit.app/))
+
 ---
 
 ## ✨ Features
